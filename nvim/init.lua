@@ -1,0 +1,5 @@
+require("pixprocoder.plugins-setup")
+require("pixprocoder.core.options")
+require("pixprocoder.core.keymaps")
+require("pixprocoder.core.colorscheme")
+require("pixprocoder.plugins.comment")
