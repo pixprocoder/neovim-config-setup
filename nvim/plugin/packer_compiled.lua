@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "/home/pixprocoder/.local/share/nvim/site/pack/packer/start/Comment.nvim",
     url = "https://github.com/numToStr/Comment.nvim"
   },
+  ["nvim-tree.lua"] = {
+    loaded = true,
+    path = "/home/pixprocoder/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+    url = "https://github.com/nvim-tree/nvim-tree.lua"
+  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/home/pixprocoder/.local/share/nvim/site/pack/packer/start/packer.nvim",
