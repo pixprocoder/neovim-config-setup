@@ -50,4 +50,4 @@ cmp.setup({
       ellipsis_char = "...",
     }),
   },
-}
+})

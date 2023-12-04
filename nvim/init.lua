@@ -6,6 +6,6 @@ require("pixprocoder.plugins.comment")
 require("pixprocoder.plugins.nvim-tree")
 require("pixprocoder.plugins.lualine")
 require("pixprocoder.plugins.telescope")
-require("pixprocoder.plugins.nvim-cmp")
-require("pixprocoder.plugins.lsp.mason")
 require("pixprocoder.plugins.lsp.lspconfig")
+require("pixprocoder.plugins.lsp.mason")
+-- Configure the Lua language server using lspconfig
