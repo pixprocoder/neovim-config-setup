@@ -4,11 +4,14 @@ require("pixprocoder.core.keymaps")
 require("pixprocoder.core.colorscheme")
 require("pixprocoder.plugins.comment")
 require("pixprocoder.plugins.nvim-tree")
-<<<<<<< HEAD
-=======
 require("pixprocoder.plugins.lualine")
 require("pixprocoder.plugins.telescope")
-require("pixprocoder.plugins.nvim-cmp")
 require("pixprocoder.plugins.lsp.mason")
-require("pixprocoder.plugins.lsp.lspconfig")
->>>>>>> 6588b0d (reinit)
+require("pixprocoder.plugins.lsp.null-ls")
+require("pixprocoder.plugins.autopairs")
+require("pixprocoder.plugins.treesitter")
+require("pixprocoder.plugins.gitsigns")
+
+-- require("pixprocoder.plugins.lsp.lspsoga")
+-- require("pixprocoder.plugins.lsp.lspconfig")
+-- Configure the Lua language server using lspconfig
